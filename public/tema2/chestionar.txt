@@ -1,0 +1,326 @@
+https://docs.google.com/forms/d/e/1FAIpQLSeJ9859DJN8SvTPrw3cALDzZpVQbHP0L5URGLoKc1Xt0kUOSw/viewform
+
+
+
+
+
+
+Tema Laborator 2 - Evaluare Competențe Digitale
+Descrierea formularului
+
+Care este termenul general folosit pentru stocarea fișierelor și datelor pe servere externe, accesibile prin internet, în loc de a le salva local pe dispozitiv?
+*
+Descrieți, în 2-3 propoziții, ce reprezintă autentificarea în doi pași (2FA) și de ce este esențială pentru protejarea conturilor online.
+*
+Termenul care definește totalitatea informațiilor (postări, istoric, poze) pe care un utilizator le lasă în mediul online și care îi conturează profilul public se numește:
+
+*
+1.
+Criptare
+2.
+Amprentă digitală (sau Identitate digitală)
+3.
+Paravan de protecție (Firewall)
+Atunci când efectuați o căutare pe internet și doriți să găsiți exact o frază specifică (în acea ordine exactă), ce operator de căutare folosiți în Google?
+
+*
+Semnul minus (-) în fața cuvintelor
+Ghilimele (" ") încadrând fraza
+Semnul plus (+) la final
+Selectați din lista de mai jos platformele recunoscute special pentru facilitarea apelurilor video și colaborării în echipă de la distanță:
+*
+Microsoft Teams
+Winamp
+Zoom
+Google Meet
+Adobe Reader
+ Pe o scară de la 1 la 5, cât de mult considerați că vă afectează lumina albastră a ecranelor calitatea somnului, dacă utilizați dispozitive cu puțin timp înainte de culcare?
+*
+Deloc 
+1
+2
+3
+4
+5
+Foarte mult
+Asociați următorii termeni legali din mediul digital cu definiția lor corectă:
+*
+Protejează creațiile intelectuale și artistice	Reglementează protecția datelor personale în Europa	Permite utilizarea, modificarea și distribuirea gratuită a unui cod
+GDPR	
+Copyright	
+Licență Open-Source	
+Bifați ce setări pot fi configurate în mod obișnuit din panoul de control al unui router Wi-Fi de acasă:
+*
+Numele rețelei (SSID)	Parola rețelei	Volumul boxelor laptopului	Filtrarea accesului anumitor dispozitive
+Setări Router				
+Un site web care are HTTPS în adresă și un "lăcățel închis" lângă link garantează 100% că acel site nu publică informații false (Fake News). Această afirmație este:
+Adevărat
+Fals
+ 
+Cum se numește procesul prin care utilizăm un soft (ex. macro-uri) pentru a executa sarcini digitale repetitive, singure, fără intervenție umană?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Un răspuns
+ 
+Statistici
+Medie
+1/10 puncte
+Media
+1/10 puncte
+Interval
+1 - 1 puncte
+Distribuția numărului total de puncte
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+0
+1
+Puncte obținute
+# de respondenți
+Score	Count
+1	1
+2	0
+3	0
+4	0
+5	0
+6	0
+7	0
+8	0
+9	0
+10	0
+ 
+Întrebări cu răspunsuri greșite frecvent
+ 
+Întrebare
+Răspunsurile corecte
+Care este termenul general folosit pentru stocarea fișierelor și datelor pe servere externe, accesibile prin internet, în loc de a le salva local pe dispozitiv?
+0/1
+Termenul care definește totalitatea informațiilor (postări, istoric, poze) pe care un utilizator le lasă în mediul online și care îi conturează profilul public se numește:
+
+0/1
+Selectați din lista de mai jos platformele recunoscute special pentru facilitarea apelurilor video și colaborării în echipă de la distanță:
+0/1
+Asociați următorii termeni legali din mediul digital cu definiția lor corectă: (GDPR)
+0/1
+Asociați următorii termeni legali din mediul digital cu definiția lor corectă: (Copyright)
+0/1
+Asociați următorii termeni legali din mediul digital cu definiția lor corectă: (Licență Open-Source)
+0/1
+Bifați ce setări pot fi configurate în mod obișnuit din panoul de control al unui router Wi-Fi de acasă:
+0/1
+Un site web care are HTTPS în adresă și un "lăcățel închis" lângă link garantează 100% că acel site nu publică informații false (Fake News). Această afirmație este:
+0/1
+Cum se numește procesul prin care utilizăm un soft (ex. macro-uri) pentru a executa sarcini digitale repetitive, singure, fără intervenție umană?
+0/1
+Care este termenul general folosit pentru stocarea fișierelor și datelor pe servere externe, accesibile prin internet, în loc de a le salva local pe dispozitiv?
+Un răspuns
+cloude
+Descrieți, în 2-3 propoziții, ce reprezintă autentificarea în doi pași (2FA) și de ce este esențială pentru protejarea conturilor online.
+Un răspuns
+este autentificarea pe baza de pin si de sms
+Termenul care definește totalitatea informațiilor (postări, istoric, poze) pe care un utilizator le lasă în mediul online și care îi conturează profilul public se numește:
+
+0/un răspuns corect
+0,0
+0,2
+0,4
+0,6
+0,8
+1,0
+Criptare
+✓ Amprentă digitală (sau
+Identitate digitală)
+Paravan de protecție (Firewall)
+1 (100 %)
+1 (100 %)
+0 (0 %)
+0 (0 %)
+0 (0 %)
+0 (0 %)
+Valoare	Număr total
+Criptare	1
+✓ Amprentă digitală (sau Identitate digitală)	0
+Paravan de protecție (Firewall)	0
+Atunci când efectuați o căutare pe internet și doriți să găsiți exact o frază specifică (în acea ordine exactă), ce operator de căutare folosiți în Google?
+
+1/un răspuns corect
+0,0
+0,2
+0,4
+0,6
+0,8
+1,0
+Semnul minus (-) în fața
+cuvintelor
+✓ Ghilimele (" ") încadrând fraza
+Semnul plus (+) la final
+0 (0 %)
+0 (0 %)
+1 (100 %)
+1 (100 %)
+0 (0 %)
+0 (0 %)
+Valoare	Număr total
+Semnul minus (-) în fața cuvintelor	0
+✓ Ghilimele (" ") încadrând fraza	1
+Semnul plus (+) la final	0
+Selectați din lista de mai jos platformele recunoscute special pentru facilitarea apelurilor video și colaborării în echipă de la distanță:
+0/un răspuns corect
+0,0
+0,2
+0,4
+0,6
+0,8
+1,0
+✓ Microsoft Teams
+Winamp
+✓ Zoom
+✓ Google Meet
+Adobe Reader
+1 (100 %)
+1 (100 %)
+0 (0 %)
+0 (0 %)
+0 (0 %)
+0 (0 %)
+0 (0 %)
+0 (0 %)
+0 (0 %)
+0 (0 %)
+Valoare	Număr total
+✓ Microsoft Teams	1
+Winamp	0
+✓ Zoom	0
+✓ Google Meet	0
+Adobe Reader	0
+ Pe o scară de la 1 la 5, cât de mult considerați că vă afectează lumina albastră a ecranelor calitatea somnului, dacă utilizați dispozitive cu puțin timp înainte de culcare?
+Un răspuns
+1
+2
+3
+4
+5
+0,00
+0,25
+0,50
+0,75
+1,00
+0 (0 %)
+0 (0 %)
+0 (0 %)
+0 (0 %)
+0 (0 %)
+0 (0 %)
+1 (100 %)
+0 (0 %)
+0 (0 %)
+Valoare	Număr total
+1	0
+2	0
+3	0
+4	1
+5	0
+Asociați următorii termeni legali din mediul digital cu definiția lor corectă:
+0/un răspuns corect
+0,0
+0,2
+0,4
+0,6
+0,8
+1,0
+Protejează creațiile intelectuale și
+artistice
+✓ Reglementează protecția
+datelor personale în Europa
+Permite utilizarea, modificarea și
+distribuirea gratuită a unui cod
+1 (100 %)
+1 (100 %)
+0 (0 %)
+0 (0 %)
+0 (0 %)
+0 (0 %)
+Valoare	Număr total
+Protejează creațiile intelectuale și artistice	1
+✓ Reglementează protecția datelor personale în Europa	0
+Permite utilizarea, modificarea și distribuirea gratuită a unui cod	0
+Rândul 1:
+GDPR
+Bifați ce setări pot fi configurate în mod obișnuit din panoul de control al unui router Wi-Fi de acasă:
+0/un răspuns corect
+0,0
+0,2
+0,4
+0,6
+0,8
+1,0
+✓ Numele rețelei (SSID)
+✓ Parola rețelei
+Volumul boxelor laptopului
+✓ Filtrarea accesului anumitor
+dispozitive
+0 (0 %)
+0 (0 %)
+0 (0 %)
+0 (0 %)
+1 (100 %)
+1 (100 %)
+0 (0 %)
+0 (0 %)
+Valoare	Număr total
+✓ Numele rețelei (SSID)	0
+✓ Parola rețelei	0
+Volumul boxelor laptopului	1
+✓ Filtrarea accesului anumitor dispozitive	0
+Rândul 1:
+Setări Router
+Un site web care are HTTPS în adresă și un "lăcățel închis" lângă link garantează 100% că acel site nu publică informații false (Fake News). Această afirmație este:
+0/un răspuns corect
+0,0
+0,2
+0,4
+0,6
+0,8
+1,0
+Adevărat
+✓ Fals
+1 (100 %)
+1 (100 %)
+0 (0 %)
+0 (0 %)
+Valoare	Număr total
+Adevărat	1
+✓ Fals	0
+Cum se numește procesul prin care utilizăm un soft (ex. macro-uri) pentru a executa sarcini digitale repetitive, singure, fără intervenție umană?
+Un răspuns
+automatizare
+*
