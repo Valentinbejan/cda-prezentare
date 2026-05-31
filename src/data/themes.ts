@@ -6,7 +6,6 @@ export type AnswerType =
   | "Paragraf"
   | "O singură variantă"
   | "Casete de selectare"
-  | "Listă derulantă"
   | "Scară liniară"
   | "Grilă variante";
 
@@ -112,7 +111,7 @@ export const themes: Theme[] = [
     eyebrow: "Chestionar",
     titlu: "Chestionar de evaluare a competențelor digitale",
     rezumat:
-      "Chestionar propriu realizat în Google Forms, cu 10 întrebări din subdomenii reprezentative ale diagramei competențelor digitale. Acoperă toate tipurile de răspuns cerute (scurt, paragraf, o variantă, casete de selectare, listă derulantă, scară liniară, grilă), acordă câte un punct pentru răspunsul corect, afișează punctajul final și permite reluarea testului.",
+      "Chestionar propriu realizat în Google Forms, ca test cu punctaj (câte un punct pentru fiecare răspuns corect), cu 10 întrebări din subdomenii reprezentative ale diagramei competențelor digitale. Folosește tipuri variate de răspuns: scurt, paragraf, o singură variantă, casete de selectare, scară liniară și grilă.",
     accent: "#fb923c", // orange
     accentSoft: "rgba(251, 146, 60, 0.12)",
     tags: ["Google Forms", "10 întrebări", "Auto-evaluare"],
@@ -172,7 +171,7 @@ export const themes: Theme[] = [
       },
       {
         text: "HTTPS și „lăcățelul închis” garantează 100% că un site nu publică informații false. Afirmația este:",
-        type: "Listă derulantă",
+        type: "O singură variantă",
         domain: "Gândire critică",
         answer: "Fals — HTTPS asigură doar conexiunea criptată, nu și veridicitatea conținutului.",
       },

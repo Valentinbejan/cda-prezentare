@@ -30,7 +30,3 @@ npm run build    # build de producție
 - `src/components/ThemeSection.tsx` — randarea reutilizabilă a unei teme.
 - `src/components/` — Navbar, Hero, Timeline, Gallery (lightbox), DownloadButton, Footer, Reveal.
 - `public/tema1..4/` — assets descărcabile.
-
-## Deploy
-
-Proiectul se publică automat pe **Vercel** (build standard Next.js, fără configurare suplimentară).
