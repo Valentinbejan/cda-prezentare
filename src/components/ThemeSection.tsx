@@ -5,6 +5,8 @@ import {
   ListChecks,
   Sigma,
   ArrowRight,
+  ChevronDown,
+  CircleCheck,
 } from "lucide-react";
 import type { Theme, DbTable } from "@/data/themes";
 import Reveal from "./Reveal";
@@ -109,25 +111,40 @@ function QuizContent({ theme }: { theme: Theme }) {
         </div>
         <ol className="divide-y divide-white/[0.06]">
           {theme.quiz.map((q, i) => (
-            <li
-              key={i}
-              className="flex flex-col gap-2 px-5 py-4 sm:flex-row sm:items-start sm:justify-between"
-            >
-              <div className="flex gap-3">
-                <span className="text-sm font-semibold text-slate-500">
-                  {String(i + 1).padStart(2, "0")}
-                </span>
-                <div>
-                  <p className="text-sm leading-relaxed text-slate-200">{q.text}</p>
-                  <p className="mt-1 text-xs text-slate-500">{q.domain}</p>
+            <li key={i} className="px-5 py-4">
+              <div className="flex flex-col gap-2 sm:flex-row sm:items-start sm:justify-between">
+                <div className="flex gap-3">
+                  <span className="text-sm font-semibold text-slate-500">
+                    {String(i + 1).padStart(2, "0")}
+                  </span>
+                  <div>
+                    <p className="text-sm leading-relaxed text-slate-200">{q.text}</p>
+                    <p className="mt-1 text-xs text-slate-500">{q.domain}</p>
+                  </div>
                 </div>
+                <span
+                  className="h-fit shrink-0 self-start whitespace-nowrap rounded-full px-3 py-1 text-xs font-medium sm:ml-4"
+                  style={{ backgroundColor: theme.accentSoft, color: theme.accent }}
+                >
+                  {q.type}
+                </span>
               </div>
-              <span
-                className="h-fit shrink-0 self-start whitespace-nowrap rounded-full px-3 py-1 text-xs font-medium sm:ml-4"
-                style={{ backgroundColor: theme.accentSoft, color: theme.accent }}
-              >
-                {q.type}
-              </span>
+              <details className="group mt-2 sm:ml-8">
+                <summary
+                  className="inline-flex cursor-pointer select-none items-center gap-1.5 text-xs font-medium transition-opacity hover:opacity-80"
+                  style={{ color: theme.accent }}
+                >
+                  <ChevronDown className="h-3.5 w-3.5 transition-transform group-open:rotate-180" />
+                  Vezi răspunsul corect
+                </summary>
+                <p className="mt-2 flex items-start gap-2 rounded-lg border border-white/10 bg-black/20 px-3 py-2 text-sm text-slate-300">
+                  <CircleCheck
+                    className="mt-0.5 h-4 w-4 shrink-0"
+                    style={{ color: theme.accent }}
+                  />
+                  <span>{q.answer}</span>
+                </p>
+              </details>
             </li>
           ))}
         </ol>
